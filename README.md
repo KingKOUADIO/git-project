@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # TourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
@@ -29,3 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # git-project
 >>>>>>> 2fabebf (Initial commit)
+=======
+# git-project
+>>>>>>> 2fabebff8d7c214c38842249fbc20ec9b864a0c5
